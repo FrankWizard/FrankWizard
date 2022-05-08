@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **Logerxy#1444**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
