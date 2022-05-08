@@ -1,6 +1,7 @@
 <h3 align="center">Logerxy aka FrankWizard</h3>
 
 - 🌱 I’m currently learning **C++, C#, assembly and reverse engineering. Windows development overall**
+- 🌱 **Any help much appreciated**
 
 - 📫 How to reach me **Logerxy#1444**
 
